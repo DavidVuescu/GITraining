@@ -7,3 +7,9 @@ Here for the first time
 - github
 - account creation
 - git close
+
+To do:
+- read git documentation
+- create repository
+- make a conflict
+- resolve a conflict
